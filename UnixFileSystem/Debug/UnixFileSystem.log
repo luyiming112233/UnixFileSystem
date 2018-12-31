@@ -1,0 +1,58 @@
+﻿  UnixFileSystem.cpp
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\constant.h(15): warning C4005: “INODESIZE”: 宏重定义
+  c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\constant.h(5): note: 参见“INODESIZE”的前一个定义
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(88): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(92): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(108): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(289): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(496): note: 参见“gmtime”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(344): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(399): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(445): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(500): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(550): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(568): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(625): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(695): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(696): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(699): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(769): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(860): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(879): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(883): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(884): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(885): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(886): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(887): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(888): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(896): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(897): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(918): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(919): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\source\repos\unixfilesystem\unixfilesystem\unixfilesystem.h(779): warning C4715: “Passwd”: 不是所有的控件路径都返回值
+  UnixFileSystem.vcxproj -> C:\Users\Administrator\source\repos\UnixFileSystem\Debug\UnixFileSystem.exe
